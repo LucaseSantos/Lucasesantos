@@ -31,9 +31,5 @@
 <br>
 
 
-
-## 🎶 Sound
-
-<br/>
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
+## 🚀 About me
+ Sou estudante de Engenharia de computação e futuro desenvolvedor front-end e mobile...
