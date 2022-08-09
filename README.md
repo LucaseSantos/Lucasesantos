@@ -19,7 +19,7 @@
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaseSantos&layout=compact_icons=true&theme=onedark)](https://github.com/LucaseSantos/github-readme-stats)
+
 
 
 ![Snake animation](https://github.com/LucaseSantos/LucaseSantos/blob/output/github-contribution-grid-snake.svg)
