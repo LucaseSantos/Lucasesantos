@@ -19,10 +19,6 @@
 </div>
 <br/>
 
-<div align="">
-  <a href="https://github.com/LucaseSantos">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaseSantos&layout=compact&langs_count=7&theme=onedark"/>
-</div>
 
 
 
